@@ -149,7 +149,7 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
 ### 应用商店：
 *   使用 F-droid 替换掉原有的 Android 应用商店。
     *   **若您身处中国内地，建议使用清华大学的源，以便 F-droid 可以正常运行。**
-    *   **使用方法：** <mcurl name="清华大学 F-droid 镜像" url="https://mirrors.tuna.tsinghua.edu.cn/help/fdroid/"></mcurl>
+    *   **使用方法：清华大学 F-droid 镜像 https://mirrors.tuna.tsinghua.edu.cn/help/fdroid** 
 
 ### 电子邮件：
 *   使用 Kolab Now、Riseup、Thunderbird 替换掉 QQ 邮箱、网易邮箱大师等。
