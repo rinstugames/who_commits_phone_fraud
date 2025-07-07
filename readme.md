@@ -164,7 +164,7 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
     *   **注意：** 使用 Firefox 时不要下载错版本，Firefox 有开源的 Firefox 和中国谋智火狐公司的火狐浏览器。
     *   谋智火狐会超规格收集数据并把你的数据转售给其它公司。
     *   如果你是从应用商店中下载的，或是你的下载链接是 `www.firefox.com.cn`，则下载到的是错误的版本。
-    *   **正确的版本在这里：** <mcurl name="Mozilla Firefox 官方下载" url="https://www.mozilla.org/zh-CN/firefox/new/"></mcurl>
+    *   **正确的版本在这里：https://www.mozilla.org/zh-CN/firefox/new/**
     *   推荐手机用户使用 Firefox Focus，当然你只想保持“纯净”而非“安全”，也可以选择 via。
     *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择：如果不愿意选择开源方案，也可选择外区 Microsoft Edge、不切换到搜狗搜索的 Google Chrome。
 
