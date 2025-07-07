@@ -126,11 +126,11 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
             *   不建议使用 `sudo`，`sudo` 软件包有大量已知漏洞，且各发行版所内置的 `sudo` 版本不一，尽量直接使用 `su` 命令。
             ```bash
             su
-            apt purge \
-            bcmwl-kernal-source \
-            nvidia-* \
-            intel-microcode \
-            amd64-microcode \
+            apt purge 
+            bcmwl-kernal-source 
+            nvidia-* 
+            intel-microcode 
+            amd64-microcode 
             ubuntu-restricted-extras
             apt autoremove
             ```
