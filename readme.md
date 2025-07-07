@@ -153,11 +153,11 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
 
 ### 电子邮件：
 *   使用 Kolab Now、Riseup、Thunderbird 替换掉 QQ 邮箱、网易邮箱大师等。
-    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择。如果不愿意选择开源方案，也可选择外区 Microsoft Outlook、Apple iCloud，或建立自有邮件系统。
+    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择：如果不愿意选择开源方案，也可选择外区 Microsoft Outlook、Apple iCloud，或建立自有邮件系统。
 
 ### 云盘：
 *   使用社区维护的 Sync 替换掉百度网盘、夸克网盘、蓝奏云、123 盘、城通网盘等。
-    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择。如果不愿意选择开源方案，也可选择外区 Microsoft OneDrive、Apple iCloud，或建立自有 NAS 系统。
+    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择：如果不愿意选择开源方案，也可选择外区 Microsoft OneDrive、Apple iCloud，或建立自有 NAS 系统。
 
 ### 浏览器：
 *   使用 Firefox（含 ESR）、Chromium 替换掉 360 安全浏览器、360 极速浏览器、QQ 浏览器、2345 浏览器、夸克等。
@@ -166,11 +166,11 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
     *   如果你是从应用商店中下载的，或是你的下载链接是 `www.firefox.com.cn`，则下载到的是错误的版本。
     *   **正确的版本在这里：** <mcurl name="Mozilla Firefox 官方下载" url="https://www.mozilla.org/zh-CN/firefox/new/"></mcurl>
     *   推荐手机用户使用 Firefox Focus，当然你只想保持“纯净”而非“安全”，也可以选择 via。
-    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择。如果不愿意选择开源方案，也可选择外区 Microsoft Edge、不切换到搜狗搜索的 Google Chrome。
+    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择：如果不愿意选择开源方案，也可选择外区 Microsoft Edge、不切换到搜狗搜索的 Google Chrome。
 
 ### 办公软件：
 *   使用 ONLYOFFICE、Libreoffice、OpenOffice 替换掉 WPS Office。
-    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择。如果不愿意选择开源方案，也可选择外区 Microsoft Office、Apple iWork。
+    *   **注意：** 这些软件虽不会主动滥用数据，但也没法保证你的安全性，非必要不选择：如果不愿意选择开源方案，也可选择外区 Microsoft Office、Apple iWork。
 
 ### 广告拦截/跳过：
 *   使用开屏跳过、李跳跳、AdGuard Home 拦截或跳过桌面及移动终端中的各类广告。
