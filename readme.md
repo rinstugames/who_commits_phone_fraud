@@ -39,6 +39,10 @@ Microsoft 社区、Adobe 社区中均有用户在讨论 Flash 中心及 FF 新�
 
 ### 战犯：hao123（百度） 上市公司
 
+**！本团队发起了一个针对性的杀毒软件，目前在 GitHub 上开放源代码托管！**
+
+![image](https://github.com/rinstugames/who_commits_phone_fraud/blob/main/Screenshot4.png)
+
 hao123 商标持有人及关联人、最终受益人【百度集团】及其关联公司所开发、运营的所有软件均为借壳 Adware 软件和完全的 Adware 本体，属于 Win32 及 Android 环境中板上钉钉的病毒程序，鉴于 iOS 的权限控制，百度公司在 iOS 系统上的流氓行为有所收敛，但有关行为截至 2025 年依旧未改善。
 
 **所作所为：**
@@ -61,6 +65,10 @@ hao123 商标持有人及关联人、最终受益人【百度集团】及其关�
 *   2020 年 11 月，UNIT42 安全研究小组发布报告指出，百度搜索与百度地图 Android 应用，暗中收集并传输了大量设备标识符，包括手机型号、屏幕解析度、MAC 地址、IMSI、IMEI 等，这些数据被用于持续追踪用户。
 
 ### 战犯：2345 上市公司
+
+**！本团队发起了一个针对性的杀毒软件，目前在 GitHub 上开放源代码托管！**
+
+![image](https://github.com/rinstugames/who_commits_phone_fraud/blob/main/Screenshot4.png)
 
 2345 商标持有人【上海二三四五网络控股集团股份有限公司（原海隆软件）】所开发、运营的所有软件均为 Adware，属于 Win32 及 Android 环境中板上钉钉的病毒程序，鉴于 iOS 的权限控制，2345 在 iOS 系统上的流氓行为有所收敛，但有关行为截至 2025 年依旧未改善。
 
